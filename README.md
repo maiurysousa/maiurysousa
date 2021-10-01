@@ -1,8 +1,8 @@
 ### Olá! Pode me chamar de May 😁
 
-- 🌱 Atualmente estou aprendendo a linguagem Java...
+- 🌱 Atualmente estou me formando como Pessoa Desenvolvedora Full <br> Stack Java Jr através do program de Bootcamp da Generation Brasil...
+ 
 - 😄 Pronomes: Ela/Dela...
-
 
 
 <div align="center">
