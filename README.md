@@ -25,7 +25,7 @@
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
   <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-  <img align="right" alt="May-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/710838033724735530/893698328959799306/Webp.net-gifmaker.gif?width=427&height=427">
+  <img align="right" alt="May-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/710838033724735530/893841618585649162/Webp.net-gifmaker-1.gif">
 </div>
 
   ##
