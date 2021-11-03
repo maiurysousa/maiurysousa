@@ -36,7 +36,7 @@ Olá! Pode me chamar de May 😊
   <img align="center" alt="May-Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="May-HTML" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="May-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="40" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1635039023~hmac=2dca3f6b51afeb1c8bbdac257af211df" /> 
+  <img align="center" alt="java" height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /> 
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
   <img align="center" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
  
