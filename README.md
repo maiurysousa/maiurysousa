@@ -2,7 +2,7 @@
   <img align="right" alt="May-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/710838033724735530/893841618585649162/Webp.net-gifmaker-1.gif">
 Olá! Pode me chamar de May 😊
 
-- Atualmente estou me formando como Pessoa Desenvolvedora Full Stack <br>Java Jr através do programa de Bootcamp da Generation Brasil...
+- Já formada em Artes Visuais, hoje me concontro também formada como <b>Pessoa Desenvolvedora Full Stack Java Jr</b> através do programa de Bootcamp da Generation Brasil...
  
 - Pronomes: Ela/Dela...
 
@@ -17,8 +17,7 @@ Olá! Pode me chamar de May 😊
 </div>
 
  <br>
- <br>
- 
+ <br> 
  
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiurysousa&show_icons=true&theme=dracula ) <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiurysousa&layout=compact&theme=dracula)--> <!--![Top Langs](img height="130em"  https://github-readme-stats.vercel.app/api/top-langs/?username=maiurysousa&layout=compact&langs_count=7&theme=dracula) -->
  
@@ -43,12 +42,20 @@ Olá! Pode me chamar de May 😊
   <img align="center" alt="Spring" height="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/> 
   <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
   <img align="center" alt="React" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mui" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
   ##
   
-<div> 
- 
- 
- ![Snake animation](https://github.com/maiurysousa/maiurysousa/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<div>  
+  
+ ![Snake animation](https://github.com/maiurysousa/maiurysousa/blob/output/github-contribution-grid-snake.svg) 
+
+  </div>
+  
+ <hr>
+  
+<h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/maiurysousa/count.svg"/>
+</p>
+  
