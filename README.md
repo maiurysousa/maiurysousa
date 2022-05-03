@@ -2,8 +2,9 @@
   <img align="right" alt="May-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/710838033724735530/893841618585649162/Webp.net-gifmaker-1.gif">
 Olá! Pode me chamar de May 😊
 
-- Após cursar Artes Visuais hoje me concontro formada como <b>Pessoa Desenvolvedora Full Stack Java Jr</b> através do programa de Bootcamp da Generation Brasil...
- 
+Cursei Artes Visuais mas hoje sou uma <b>desenvolvedora</b> em busca de crescimento. 
+<br><br>
+💻 Analista de Desenvolvimento de Sistemas  
 - Pronomes: Ela/Dela...
 
 <div>   
