@@ -43,6 +43,7 @@ Olá! Pode me chamar de May 😊
   <img align="center" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
   <img align="center" alt="React" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mui" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="Python" height="40" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
 
   ##
   
