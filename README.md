@@ -57,8 +57,8 @@ Cursei Artes Visuais mas hoje sou uma <b>desenvolvedora</b> em busca de crescime
   </div>
   
  <hr>
-  
-<h3><p align="center">Total de Visitas no Perfil</p>
+
+<h3 align="center" style="color:#DD6387">Total de Visitas no Perfil</h3>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/maiurysousa/count.svg"/>
 </p>
