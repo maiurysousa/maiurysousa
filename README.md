@@ -1,5 +1,5 @@
 ### 
-  <img align="right" alt="May-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/710838033724735530/893841618585649162/Webp.net-gifmaker-1.gif">
+  <img align="right" alt="May-pic" height="150" src="https://media.discordapp.net/attachments/710838033724735530/893841618585649162/Webp.net-gifmaker-1.gif">
 Olá! Pode me chamar de May 😊
 
 Cursei Artes Visuais mas hoje sou uma <b>desenvolvedora</b> em busca de crescimento. 
@@ -17,8 +17,10 @@ Cursei Artes Visuais mas hoje sou uma <b>desenvolvedora</b> em busca de crescime
  
 </div>
 
- <br>
- <br> 
+<hr>
+
+<br>
+<br> 
  
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiurysousa&show_icons=true&theme=dracula ) <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiurysousa&layout=compact&theme=dracula)--> <!--![Top Langs](img height="130em"  https://github-readme-stats.vercel.app/api/top-langs/?username=maiurysousa&layout=compact&langs_count=7&theme=dracula) -->
  
